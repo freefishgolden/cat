@@ -4,7 +4,7 @@
 #!icon = 
 
 [Script]
-http-response https://lvzqnaapsawzqsrxjkgi.supabase.co/ script-path= https://raw.githubusercontent.com/freefishgolden/cat/main/suance.js, requires-body=true, timeout=10, tag=Premium
+http-response https://lvzqnaapsawzqsrxjkgi.supabase.co/ script-path=https://raw.githubusercontent.com/freefishgolden/cat/main/suamce.js, requires-body=true, timeout=10, tag=Premium
 
 [MITM]
 hostname = lvzqnaapsawzqsrxjkgi.supabase.co
