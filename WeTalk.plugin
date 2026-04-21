@@ -2,6 +2,7 @@
 #!desc = 每日签到，loon适配版
 #!date = 2026-4-21
 #!author = 怎么肥事[https://t.me/Nzmgs]
+#!img-url=https://raw.githubusercontent.com/Xhy333/QuantumultX/main/icon/WeTalk.png
 #!loon_version = 3.2.4(787)
 
 [Argument]
